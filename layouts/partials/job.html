@@ -3,7 +3,7 @@
 		<ul class="left-content" >
 			<li class="title">{{ .Title }}</li>
 			<li>{{ .Params.job_title }}</li>
-			<li>{{ dateFormat "Jan. 2006" .Params.start_date }} - {{ dateFormat "Jan. 2006" .Params.end_date }}</li>
+			<li>{{ dateFormat "Jan. 2006" .Params.start_date }} - {{ if .Params.end_date }}{{ dateFormat "Jan. 2006" .Params.end_date }}{{ else }} present{{end}}</li>
 			{{if .Params.location }}<li>{{ .Params.location }}</li>{{end}}
 		</ul>
 	</div><div class="content col col-8">

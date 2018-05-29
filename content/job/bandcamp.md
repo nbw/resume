@@ -8,6 +8,7 @@ end_date: 2016-08-30
 date: 2016-08-30
 ---
 
+
 <div class="col-5">
 
 <label>What I did</label>
