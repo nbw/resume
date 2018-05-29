@@ -1,0 +1,21 @@
+<div class="thanks">Thanks!</div>
+<ul>
+	<li id="email" onclick="showEmail()">Email</li>
+	<li><a href="{{ .Site.Params.github }}">Github</a></li>
+	<li><a href="https://twitter.com/{{ .Site.Params.twitter_handle }}">Twitter</a></li>
+	<li><a href="https://nathanwillson.com">Website</a></li>
+</ul>
+
+<script>
+	function showEmail() {
+		var email = "{{.Site.Params.email}}",
+		el = document.getElementById("email"),
+		a  = document.createElement("a");
+
+		a.innerHTML = email;
+		a.setAttribute('href', 'mailto:' + email);
+
+		el.innerHTML = "";
+		el.appendChild(a);
+	}
+</script>

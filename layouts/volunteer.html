@@ -1,0 +1,10 @@
+<div id="volunteer">
+	<h1>Volunteering</h1>
+	<ul>
+	  {{ range .Data.Pages }}
+	    {{ if eq .Type "volunteer" }}
+	    	{{ partial "volunteer" . }}
+	    {{ end }}
+	  {{ end }}
+	</ul>
+</div>

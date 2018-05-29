@@ -1,0 +1,9 @@
+baseURL = "https://resume.nathanwillson.com"
+languageCode = "en-us"
+title = "Nathan Willson - Resume"
+author = "Nathan Willson"
+
+[params]
+	email = "contact@nathanwillson.com"
+  github = "https://github.com/nbw/"
+  twitter_handle = "_nathanbw"

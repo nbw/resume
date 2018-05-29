@@ -1,0 +1,10 @@
+<div id="projects">
+	<h1>Projects</h1>
+	<ul>
+	  {{ range .Data.Pages }}
+	    {{ if eq .Type "project" }}
+	    	{{ partial "project" . }}
+	    {{ end }}
+	  {{ end }}
+	</ul>
+</div>

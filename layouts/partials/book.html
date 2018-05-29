@@ -1,0 +1,8 @@
+<li class="book">
+	{{ if .Params.book_url }}
+		<a class="title" href="{{ .Params.book_url }}">{{ .Title }}</a> by {{ .Params.Author }}
+	{{ else }}
+		<span class="title">{{ .Title }}</span> by {{ .Params.Author }}
+	{{ end }}
+	{{ .Content }}
+</li>

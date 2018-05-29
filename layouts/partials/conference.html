@@ -1,0 +1,9 @@
+<li class="book">
+	{{ if .Params.event_url }}
+		<a class="title" href="{{ .Params.event_url }}">{{ .Title }}</a> by {{ .Params.Author }}
+	{{ else }}
+		<span class="title">{{ .Title }}</span> by {{ .Params.Author }}
+	{{ end }}
+	{{ dateFormat "Jan. 2006" .Date }}
+	{{ .Content }}
+</li>

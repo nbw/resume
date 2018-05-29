@@ -1,0 +1,8 @@
+<div id="jobs">
+  <h1>Work</h1>
+  {{ range .Data.Pages }}
+    {{ if eq .Type "job" }}
+    	{{ partial "job" . }}
+    {{ end }}
+  {{ end }}
+</div>

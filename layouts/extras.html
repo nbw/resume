@@ -1,0 +1,29 @@
+<div id="extras">
+	<h1>Extras</h1>
+	<div class="col col-5">
+		<div id="books">
+		<h2>Books</h2>
+		<p>Books I've read and would stand by.</p>
+		<ul>
+		{{ range .Data.Pages }}
+	    {{ if eq .Type "book" }}
+	    	{{ partial "book" . }}
+	    {{ end }}
+	  {{ end }}
+	  </ul>
+	</div>
+	</div><div class="col col-5">
+		<div id="conferences">
+		<h2>Conferences</h2>
+		<p>Conferences I've attended.</p>
+		<ul >
+			{{ range .Data.Pages }}
+		    {{ if eq .Type "conference" }}
+		    	{{ partial "conference" . }}
+		    {{ end }}
+		  {{ end }}
+	  </ul>
+		</div>
+	</div>
+
+</div>
