@@ -6,6 +6,5 @@ start_date: 2018-05-24
 end_date: 2018-05-25
 
 date: 2018-05-24
-draft: true
 ---
 

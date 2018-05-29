@@ -6,7 +6,6 @@ start_date: 2012-01-01
 end_date: 2012-04-30
 
 date: 2012-04-30
-draft: true
 ---
 
 <div><label>

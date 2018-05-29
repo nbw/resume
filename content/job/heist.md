@@ -6,7 +6,6 @@ start_date: 2013-01-01
 end_date: 2013-04-30
 
 date: 2013-03-30
-draft: true
 ---
 <div class="col-5">
 	<label>What it was</label>
