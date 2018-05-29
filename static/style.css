@@ -253,5 +253,18 @@ footer li {
 #email:hover{
 	text-decoration: underline;
 }
+
+@media only screen and (max-width: 600px) {
+	body { padding: 0; margin: 0; }
+
+	.col { padding-top: 20px; padding-bottom: 10px; }
+
+	.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9 {width: 100.0%;}
+
+	img, #projects .project img{ width: 90%;}
+
+	#projects .project { padding: 0; }
+
+	main { margin: 5%; }
 }
 
