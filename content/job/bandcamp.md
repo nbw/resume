@@ -21,13 +21,20 @@ date: 2016-08-30
 	The job itself was quite technically demanding. For example, handrolling and executing raw SQL queries to retrieve stats and info.  I also had the chance to code admin tools and a few front facing pages.
 </p>
 
+<label>Ask me about</label>
+<ul>
+	<li>The value of support</li>
+	<li>Working remotely</li>
+	<li>Music!</li>
+</ul>
+
+<label>Tasks included:</label>
 <p>
-	Tasks included:
 	<ul>
-		<li>Answering emails (we used FogBugz, now called Manuscript)</li>
+		<li>Coding new admin tools and features to improve some of the more repetative parts of support</li>
+		<li>Answering support emails (we used FogBugz, now called Manuscript)</li>
 		<li>Refining website documentation</li>
 		<li>Cataloging issues (if there's a problem, you gotta prove it)</li>
-		<li>Coding new admin tools and features to improve some of the more repetative parts of support</li>
 	</ul>
 </p>
 
@@ -43,10 +50,7 @@ date: 2016-08-30
 	Explaining something succintly, effectively, and in way that is helpful can be an artform.
 </p>
 
-<p>
-	Technical support skills:
-</p>
-
+<label>Technical support skills:</label>
 <ul>
 	<li>SQL (yep, we used raw SQL to look things up)</li>
 	<li>Debug port (telnet)</li>
@@ -55,10 +59,7 @@ date: 2016-08-30
 	<li>DNS investigation using dig and cURL</li>
 </ul>
 
-<p>
-	Programming skills:
-</p>
-
+<label>Programming skills:</label>
 <ul>
 	<li>Subversion</li>
 	<li>HTML/CSS</li>

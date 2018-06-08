@@ -10,26 +10,30 @@ date: 2018-05-24
 
 <div class="col-4">
 
-<label>What I worked on</label>
+<label>What I did</label>
 
 <p>
-	Worked primarily on a scheduling product called <a href="http://www.makeshift.ca/">Makeshift</a> as a full-stack developer.
+	Worked with team primarily on a scheduling product called <a href="http://www.makeshift.ca/">Makeshift</a> as a full-stack developer.
 </p>
 
+</div><div class="col-3">
+	<label>Ask me about</label>
+	<ul>
+		<li>Building a SaaS product</li>
+		<li>Integrating with 3rd-party APIs</li>
+		<li>Background jobs</li>
+		<li>Internationalization</li>
+		<li>White-labeling</li>
+		<li>CI testing</li>
+	</ul>
 </div><div class="col-3">
 	<label>What I worked with</label>
 	<ul>
 		<li>Ruby on Rails</li>
 		<li>Heroku</li>
-		<li>Javascript/JQuery</li>
+		<li>Javascript</li>
+		<li>HTML/CSS</li>
 		<li>Github</li>
-		<li>Elixir (a bit)</li>
-	</ul>
-</div><div class="col-3">
-	<label>Concepts</label>
-	<ul>
-		<li>Building a SaaS product</li>
-		<li>CI testing</li>
-		<li>Managing service apps</li>
+		<li>Elixir</li>
 	</ul>
 </div>

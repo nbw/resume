@@ -126,6 +126,18 @@ label {
 	text-align: right;
 }
 
+#projects ul.contributions {
+	list-style: none;
+	text-align: center;
+}
+#projects .contributions li {
+	display: inline-block;
+	padding: 10px;
+}
+#projects .contributions img {
+	height: 75px;
+}
+
 /******* BOOK ******/
 #books ul, #conferences ul {
 	padding-left: 0rem;
