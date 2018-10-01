@@ -221,7 +221,7 @@ li.book .title { font-weight: 500; }
 	margin: 0;
 	padding: 0;
 }
-#volunteer li { list-style-type: none; }
+/* #volunteer li { list-style-type: none; } */
 
 .volunteer {
 	padding: 2rem 0 2rem 0;

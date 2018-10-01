@@ -21,9 +21,8 @@ date: 2018-05-24
 	<ul>
 		<li>Building a SaaS product</li>
 		<li>Integrating with 3rd-party APIs</li>
-		<li>Background jobs</li>
+		<li>Background jobs in a Rails environment</li>
 		<li>Internationalization</li>
-		<li>White-labeling</li>
 		<li>CI testing</li>
 	</ul>
 </div><div class="col-3">
