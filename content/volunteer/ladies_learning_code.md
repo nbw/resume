@@ -7,4 +7,6 @@ Volunteering at [Canada Learning Code](https://www.canadalearningcode.ca/chapter
 
 * Machine Learning Workshop
 * Girls Learning Code: Webmaking with HTML & CSS (For ages 9-12)
+* Javascript for Beginners
+* And more..
 
