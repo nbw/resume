@@ -3,7 +3,7 @@ title: "Appcolony"
 job_title: Developer
 location: "Victoria, BC, Canada"
 start_date: 2017-01-16
-end_date:
+end_date: 2019-03-20
 
 date: 2018-05-24
 ---
