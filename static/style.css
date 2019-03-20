@@ -126,6 +126,12 @@ label {
 	text-align: right;
 }
 
+#projects .project .github-private {
+	padding-top: 1rem;
+	padding-right: 1rem;
+	text-align: center;
+}
+
 #projects ul.contributions {
 	list-style: none;
 	text-align: center;
