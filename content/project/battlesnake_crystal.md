@@ -4,7 +4,7 @@ github: "battlesnake_crystal"
 date: 2018-05-20T18:40:29-07:00
 ---
 
-![battlesnake](images/battlesnake.png)
+![battlesnake](images/battlesnake.gif)
 
 Sponsor bounty snake for [Battlesnake](https://www.battlesnake.io/) 2018. Since it was a challenge snake, we chose _Tron_ rules where the snake's tail did not move.
 
