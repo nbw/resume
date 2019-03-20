@@ -4,8 +4,7 @@ html {
 
 body {
 	font-family: 'Roboto', sans-serif;
-	font-size: 1.5rem;
-	font-weight: 300;
+	font-size: 1.5rem; font-weight: 300;
 	color: #1f1f1f;
 	text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -144,6 +143,10 @@ label {
 	height: 75px;
 }
 
+#projects #battlesnake.project {
+  width: 70.0%;
+}
+
 /******* BOOK ******/
 #books ul, #conferences ul {
 	padding-left: 0rem;
@@ -267,6 +270,7 @@ footer li {
 	padding: 2rem;
 	font-size: 2rem;
 }
+
 
 #email:hover{
 	text-decoration: underline;
