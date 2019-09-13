@@ -9,4 +9,5 @@ draft: false
 
 I have a soft spot for Elixir. It's a cool langauge with a nice community.
 
-I've been lucky enough to have a few pull-requests with the Elixir formatter merged in. Also a handlebar change for ExDoc to make the table of contents easier to use in certain cases.
+I have a few commits to the language itself and then a number of commits to Elixir libraries.
+
