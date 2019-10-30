@@ -1,10 +1,10 @@
 <div id="education">
-	<h1>Education</h1>
-	<ul>
-	  {{ range .Data.Pages }}
-	    {{ if eq .Type "education" }}
-	    	{{ partial "school" . }}
-	    {{ end }}
-	  {{ end }}
-	</ul>
+  <h1>Education</h1>
+  <ul class="items">
+    {{ range .Data.Pages }}
+      {{ if eq .Type "education" }}
+        {{ partial "school" . }}
+      {{ end }}
+    {{ end }}
+  </ul>
 </div>

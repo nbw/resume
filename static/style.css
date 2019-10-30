@@ -205,11 +205,15 @@ li.book .title { font-weight: 500; }
 
 
 /******* EDUCATION *******/
-#education > ul {
+#education ul.items {
 	margin: 0;
 	padding: 0;
 }
-#education li { list-style-type: none; }
+#education .items li { list-style-type: none;}
+
+#education .basic li {
+  padding: 0.5rem 0 0.5rem 0;
+}
 
 .school {
 	padding: 2rem 0 2rem 0;

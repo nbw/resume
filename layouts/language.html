@@ -1,0 +1,24 @@
+<div id="education">
+  <h1>Language Qualifications</h1>
+  <ul class="basic">
+    <li>
+      <b>English</b>: Fluent (mother tongue).
+    </li>
+    <li>
+      <b>Japanese</b>: Upper-intermediate level. I've passed the JLPT N3 and will write the JLPT N2 in December of 2019.
+    </li>
+    <li>
+      <b>French</b>: Basic intermediate-level conversation.
+    </li>
+    <li>
+      <b>German</b>: Beginner german.
+    </li>
+  </ul>
+  <ul class="items">
+    {{ range .Data.Pages }}
+      {{ if eq .Type "language" }}
+        {{ partial "language" . }}
+      {{ end }}
+    {{ end }}
+  </ul>
+</div>

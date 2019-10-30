@@ -1,0 +1,13 @@
+
+<li class="school">
+  <div class="col col-2">
+    <ul>
+      <li class="title">{{ .Title }}</li>
+      {{if .Params.language}}<li>Language: {{ .Params.language }}</li>{{end}}
+      <li>{{ .Params.role }}</li>
+      <li>{{ dateFormat "Jan. 2006" .Params.start_date }} - {{ dateFormat "Jan. 2006" .Params.end_date }}</li>
+    </ul>
+  </div><div class="col col-8">
+    {{ .Content }}
+  </div>
+</li>
