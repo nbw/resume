@@ -2,6 +2,7 @@ baseURL = "https://resume.nathanwillson.com"
 languageCode = "en-us"
 title = "Nathan Willson - Resume"
 author = "Nathan Willson"
+enableRobotsTXT = true
 
 [params]
 	email = "contact@nathanwillson.com"
