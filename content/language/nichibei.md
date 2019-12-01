@@ -8,7 +8,7 @@ end_date: 2019-12-18
 date: 2019-04-01
 ---
 
-Three semesters of full-time business Japanese in Tokyo. Intermediate levels 1, 2, and 3. Equivalently grammar ranging from JLPT N3 to N1.
+Three semesters of full-time business Japanese in Tokyo. Intermediate levels 1, 2, and 3.
 
 [Link to school website.](https://www.nichibei.ac.jp/jli/)
 
