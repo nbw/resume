@@ -13,7 +13,7 @@ date: 2018-05-24
 <label>What I did</label>
 
 <p>
-	Worked with team primarily on a scheduling product called <a href="http://www.makeshift.ca/">Makeshift</a> as a full-stack developer.
+	Worked with a team primarily on a scheduling product called <a href="http://www.makeshift.ca/">Makeshift</a> as a full-stack developer.
 </p>
 
 </div><div class="col-3">
