@@ -1,5 +1,6 @@
 ---
 title: "When To Chat for Slack"
+github: "whentoslack"
 date: 2019-10-28T16:55:15-08:00
 draft: false
 ---
