@@ -263,6 +263,14 @@ footer .thanks {
 	font-size: 6rem;
 	font-weight: 500;
 }
+footer .resumes-title {
+  margin-top: 15rem;
+	font-size: 2.5rem;
+	font-weight: 500;
+}
+footer .resumes li {
+	font-size: 1.5rem;
+}
 footer ul {
 	padding: 0;
 	margin: 0;
