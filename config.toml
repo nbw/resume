@@ -7,5 +7,5 @@ enableRobotsTXT = true
 [params]
 	email = "contact@nathanwillson.com"
   github = "https://github.com/nbw/"
-  github = "https://gitlab.com/nathanwillson"
+  gitlab = "https://gitlab.com/nathanwillson"
   twitter_handle = "nathanwillson"
