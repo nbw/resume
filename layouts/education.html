@@ -1,6 +1,6 @@
 <div id="education">
   <h1>Education</h1>
-  <ul class="items">
+  <ul class="none items">
     {{ range .Data.Pages }}
       {{ if eq .Type "education" }}
         {{ partial "school" . }}
