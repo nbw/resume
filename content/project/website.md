@@ -2,7 +2,7 @@
 title: "Personal Website"
 github: "web"
 date: 2018-05-19T18:30:46-07:00
-draft: false
+draft: true
 ---
 
 ![pineapple](images/pineapple.png)
